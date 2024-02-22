@@ -126,16 +126,16 @@ class dingtalkBot:
         rates = [Rate(20, Duration.MINUTE)] # 频率限制，20条/分钟
         bucket = InMemoryBucket(rates)
         limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
-        markdown_text = ''
+        markdown_text = '## **安全资讯**\n'
         for (feed, text) in text_list:
             limiter.try_acquire('identity')
-            markdown_text += f'## {feed}\n{text}\n\n'
-            
+            markdown_text += f'## {feed}\n{text}\n\n'    
+        
         markdown_text += '<!-- Powered by Yarb. -->'
         print(f'{len(markdown_text)} {markdown_text[:50]}...{markdown_text[-50:]}')
         
         data = {"msgtype": "markdown", "markdown": {
-            "title": "合并消息", "text": markdown_text}}
+            "title": "安全日报", "text": markdown_text}}
         headers = {'Content-Type': 'application/json'}
         url = f'https://oapi.dingtalk.com/robot/send?access_token={self.key}'
         r = requests.post(url=url, headers=headers,
