@@ -127,10 +127,8 @@ class dingtalkBot:
         bucket = InMemoryBucket(rates)
         limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
         markdown_text = ''
-        
         for (feed, text) in text_list:
             limiter.try_acquire('identity')
-
             markdown_text += f'## {feed}\n{text}\n\n'
             
         markdown_text += '<!-- Powered by Yarb. -->'
