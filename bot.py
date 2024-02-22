@@ -126,26 +126,28 @@ class dingtalkBot:
         rates = [Rate(20, Duration.MINUTE)] # 频率限制，20条/分钟
         bucket = InMemoryBucket(rates)
         limiter = Limiter(bucket, max_delay=Duration.MINUTE.value)
-
+        markdown_text = ''
+        
         for (feed, text) in text_list:
             limiter.try_acquire('identity')
 
-            text = f'## {feed}\n{text}'
-            text += f"\n\n <!-- Powered by Yarb. -->"
-            print(f'{len(text)} {text[:50]}...{text[-50:]}')
+            markdown_text += f'## {feed}\n{text}\n\n'
+            
+        markdown_text += '<!-- Powered by Yarb. -->'
+        print(f'{len(markdown_text)} {markdown_text[:50]}...{markdown_text[-50:]}')
+        
+        data = {"msgtype": "markdown", "markdown": {
+            "title": "合并消息", "text": markdown_text}}
+        headers = {'Content-Type': 'application/json'}
+        url = f'https://oapi.dingtalk.com/robot/send?access_token={self.key}'
+        r = requests.post(url=url, headers=headers,
+                            data=json.dumps(data), proxies=self.proxy)
 
-            data = {"msgtype": "markdown", "markdown": {
-                "title": feed, "text": text}}
-            headers = {'Content-Type': 'application/json'}
-            url = f'https://oapi.dingtalk.com/robot/send?access_token={self.key}'
-            r = requests.post(url=url, headers=headers,
-                                data=json.dumps(data), proxies=self.proxy)
-
-            if r.status_code == 200:
-                console.print('[+] dingtalkBot 发送成功', style='bold green')
-            else:
-                console.print('[-] dingtalkBot 发送失败', style='bold red')
-                print(r.text)
+        if r.status_code == 200:
+            console.print('[+] dingtalkBot 发送成功', style='bold green')
+        else:
+            console.print('[-] dingtalkBot 发送失败', style='bold red')
+            print(r.text)
 
 
 class qqBot:
