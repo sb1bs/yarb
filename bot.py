@@ -125,7 +125,7 @@ class dingtalkBot:
     async def send(self, text_list: list):
         rates = [Rate(20, Duration.MINUTE)] # 频率限制，20条/分钟
         bucket = InMemoryBucket(rates)
-        limiter = Limiter(bucket, max_delay=120)
+        limiter = Limiter(bucket, max_delay=120000)
         markdown_text = '## **安全资讯**\n'
         for (feed, text) in text_list:
             limiter.try_acquire('identity')
