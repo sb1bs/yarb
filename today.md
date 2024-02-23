@@ -1,46 +1,85 @@
 # 每日安全资讯（2024-02-23）
 
-- 绿盟科技技术博客
-  - [Microsoft Exchange Server 权限提升漏洞（CVE-2024-21410）通告](https://blog.nsfocus.net/microsoft-exchange-server-cve-2024-21410/)
-- 博客园 - 郑瀚Andrew
-  - [网络安全事件管理 - 郑瀚Andrew](https://www.cnblogs.com/LittleHann/p/18024527)
-- 安全牛
-  - [2023年全球勒索软件攻击代表性事件回顾](https://www.aqniu.com/industry/102664.html)
-  - [CNNVD通报微软多个安全漏洞](https://www.aqniu.com/industry/102662.html)
-  - [安全牛课堂 | 基于AI智能的网络安全意识宣教](https://www.aqniu.com/industry/102657.html)
-  - [博智电力网络靶场保障电力系统安全建设](https://www.aqniu.com/vendor/102644.html)
+- 绿盟科技研究通讯
+  - [大模型内容安全：敢问路在何方？](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247496708&idx=1&sn=0568528144abeefd596fc7004b203a26&chksm=e84c52dbdf3bdbcd362048de1390cc52bc4f9803b8a435e3ecc24dcc19f5538f12c396af961f&scene=58&subscene=0#rd)
+- 安全内参
+  - [彩信指纹：以色列间谍软件可无感知侦查全球智能手机信息](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511044&idx=1&sn=d42f445f36c9366c4e6e16b98521bab1&chksm=ebfaeb24dc8d62325ffd77b2df16eaacd89b5e0d54b13e192109b45f9447de24a1d20338d8da&scene=58&subscene=0#rd)
+  - [盘点：2023年全球勒索软件攻击代表性事件](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511044&idx=2&sn=618044bc644302a24b8f645f454f9169&chksm=ebfaeb24dc8d6232a9e176091d7bad752c67615370f0ce903f0fa66be3def521d521c0e51d6d&scene=58&subscene=0#rd)
+- 嘶吼专业版
+  - [嘶吼&小塔科技联合出品 | 2023招投标采购视角下国内网络安全市场年度报告](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573719&idx=1&sn=f89a9ada63fd539f7b902bc088b5052c&chksm=e91470edde63f9fb9a15e5236e0d1835cf2d9e70cd5e74930edcfe21b42c4100afccf5fa63b3&scene=58&subscene=0#rd)
+  - [Parrot TDS将用户重定向到恶意位置](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573719&idx=2&sn=8f32eb7e4d4848e39712e1cbad0a0252&chksm=e91470edde63f9fb2203b38306538bbc61491471ac6d1634e5ef77c97000dc09401d61753a29&scene=58&subscene=0#rd)
+- dotNet安全矩阵
+  - [.NET 文件上传漏洞在不同框架下的差异](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490776&idx=1&sn=59653d64fc3ad7a06be3b0429a384e44&chksm=fa5ab235cd2d3b23a0ea4336f71b869b80ab7a2a15dee0466db73aa874a53cfa3849c6e66d23&scene=58&subscene=0#rd)
+  - [.NET安全矩阵知识库优惠持续进行](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490776&idx=2&sn=48a41da55694a5cfee1b63051db9d512&chksm=fa5ab235cd2d3b23f109bc586bb2a45750da0be2fba163100c65e17366a33f08753c9a2432e5&scene=58&subscene=0#rd)
+- 看雪学苑
+  - [使用Unidbg在CTF-Android题目的快速解题](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542348&idx=1&sn=9aa386ce99973dad49852cdc5a545eb9&chksm=b18d518686fad890f0d5170fc110adafdd13e647ce700fc49de7ac1e9722166783765170fbc1&scene=58&subscene=0#rd)
+  - [极易被利用，远程桌面软件ScreenConnect曝10分RCE漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542348&idx=2&sn=c9d66fe6b649aea94a414f5c0f31c5f9&chksm=b18d518686fad8905dd5a17a1dc7c7eccc3d7da0f9399c09447e28bbfc0722fd54139c4fd0cb&scene=58&subscene=0#rd)
+  - [30小时教你玩转CTF！搭配AI字幕学起来更省心](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542348&idx=3&sn=6743ecc5a5e199748b2f32df0c7e9355&chksm=b18d518686fad890ed7fa9efd437cd0e317126e3929f57f87f1fe96dd01c9d47a94096019145&scene=58&subscene=0#rd)
+- 安全圈
+  - [【安全圈】Sora火了，他靠售卖AI课赚了一波红利，现在却被暂停服务…](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054272&idx=1&sn=5577f7f0672a3d1026c046e9239675b8&chksm=f36e0f40c41986562aeb26faf1665613d56ac0fbe96e1acd751129028438d7d6a53cb90d3003&scene=58&subscene=0#rd)
+  - [【安全圈】苹果推出iMessage的PQ3后量子加密协议，旨在保护免受未来量子计算攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054272&idx=2&sn=a5decafe88acd1a24f39703ecc14eabd&chksm=f36e0f40c419865621b0fc27844754dc93683d2244b50f085c1efa55c55efd81b6123b61dbdc&scene=58&subscene=0#rd)
+  - [【安全圈】注意！隐形后门 Mac 恶意软件可以清除您的文件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054272&idx=3&sn=66e7c5cb01cc41d415db9424944ab8af&chksm=f36e0f40c419865698b4cc46125a066067af232c9b68fb538c9ebab0a920187482509133743d&scene=58&subscene=0#rd)
+- 暗影安全
+  - [用mshta让bat以管理员身份运行](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165419&idx=1&sn=42e37b19652b92d93341e99f49207233&chksm=f1d4d28ec6a35b98d961276889afaadd049a8bd9a7457d66130ecf00523e831f4af53557321f&scene=58&subscene=0#rd)
+  - [【工具分享】一款针对Spring Boot的开源渗透框架（持续更新中）](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165419&idx=2&sn=d783c98bf8e8bc0a80f94c1b69324e66&chksm=f1d4d28ec6a35b98b999ab83d41ca989f245a7eac1e803c1e3a4021267beb66b0c9fa5b21656&scene=58&subscene=0#rd)
+- 吾爱破解论坛
+  - [【2024春节】解题领红包活动排行榜（2/22 降低难度通知）](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140080&idx=1&sn=7d1b543171e32b44c4c36e3fdb8bfe16&chksm=bd50bfa48a2736b2c8db23ceb1a60db1698aebe1256d6b3bb02e3be6c56ca7586c33fd606837&scene=58&subscene=0#rd)
+- 三六零CERT
+  - [国内知名品牌NAS系统遭LvtLocker勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502717&idx=1&sn=c1cfcae3f783f32262bc2da3ce257125&chksm=fe26ce7cc951476a28fa64a3140958a78ddb4413c97dcdc3ec12d19fb96b278fc373c2f87fd8&scene=58&subscene=0#rd)
+  - [安全日报（2024.02.22）](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502717&idx=2&sn=4f4539ed571ba1c03b76cc267ba428f3&chksm=fe26ce7cc951476ad9d7e82a1fd962f43f2d24b4c8ffab98b2cac9f7ca7ccf2eb78d7d2b6f0f&scene=58&subscene=0#rd)
+- 青衣十三楼飞花堂
+  - [在中国科技馆找BUG](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247487177&idx=1&sn=f397e56af7b19882f50c3b03a64d9d97&chksm=fab2cdf6cdc544e08e37be4d0277f3f43ba73852f574aca8dd4005bb491456909f59dc818479&scene=58&subscene=0#rd)
+- 威努特工控安全
+  - [万字长文详细介绍Linux内存管理](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651114267&idx=1&sn=defad51593453dde9da5806a26855e3d&chksm=80e6d1abb79158bda2895999c5b852a75dcacd171961de74fde95c96304f8fb56d8a81620779&scene=58&subscene=0#rd)
+- 数世咨询
+  - [报告发布｜数世咨询：NDR能力指南](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247509101&idx=1&sn=25c13b01c58104870dd163c0c7a01bc8&chksm=c144d6d0f6335fc61335d1dbebe7d27a3d9ba5a85a6c2e791d4667d4d6997f36b590f13b345c&scene=58&subscene=0#rd)
+- 代码卫士
+  - [速修复！Joomla 漏洞可导致RCE攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518892&idx=1&sn=b7220370e3340f240091cca34c399d57&chksm=ea94bbc6dde332d024909d576d7b563018e16c1e79f3ee057e9cec70d8d5837a228f47fbf6d0&scene=58&subscene=0#rd)
+  - [WiFi漏洞导致安卓和Linux设备易受攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518892&idx=2&sn=21e7796662495b4b807b3393dafd9890&chksm=ea94bbc6dde332d07356a2e54be40ffbdc88a3cac47f21912107d477815155335555fe2c827d&scene=58&subscene=0#rd)
+- 极客公园
+  - [英伟达首次透露：上季度 180 亿美元数据中心收入，AI 推理已高达四成](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653034060&idx=1&sn=6384a2ae52d187928da90aae08da6b91&chksm=7e576bfa4920e2eca2d569bbb2cbe76e893ada96a1fe082ffa3c83c46e6f3fded1adbcd1f7dd&scene=58&subscene=0#rd)
+  - [业绩远超预期，英伟达盘后大涨10%；谷歌宣布 Gemma 大模型全球开放使用；华为首超苹果成中国平板市场第一｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653034044&idx=1&sn=d9c98a5ee757fe42d0b6a687911386a7&chksm=7e576b8a4920e29c70c7402d94f2eb2491025c1aa4f5162a18a8d972b62bc14675d5d7d6ce74&scene=58&subscene=0#rd)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 阅读推荐 2024-02-22 当你在读论文时，你在想什么？](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247497352&idx=1&sn=e9484aa41c523cce45ec9e4a50f49c68&chksm=c063d851f7145147b6a66be227f2e8611ce06fe3e5901d298b56f1236949dcbe31da6b25e1b3&scene=58&subscene=0#rd)
+- 关键基础设施安全应急响应中心
+  - [某关键基础设施软件制造商确认遭遇勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542333&idx=1&sn=082dfb90e4db11c5a7e7ec1f93ddd1cf&chksm=c1e9aa6cf69e237a9a112fd246709621f8697dfe4132fdcb44f4aaa890208fcf169bd95c4070&scene=58&subscene=0#rd)
+  - [增强工业控制系统网络安全之战略举措：PRP协议的部署应用](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542333&idx=2&sn=dbe4a25f19a72defe2bf89ea0db13904&chksm=c1e9aa6cf69e237a40374daf50bcf61680d8e910ce96c98d0ef31a7c48b3c5eb585ded3887ba&scene=58&subscene=0#rd)
+  - [未能遏止数据泄露增势！美国网络安全法律体系被指存在重大缺陷](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542333&idx=3&sn=e8272eac771555b8c4eb8761c039e241&chksm=c1e9aa6cf69e237ae4c3f9152efd44d884dc11b1012204914536111dcdd4d21e54ae4e61e186&scene=58&subscene=0#rd)
+- 奇安信威胁情报中心
+  - [UTG-Q-007：越南语木马ROTbot正在瞄准亚洲地区](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247509672&idx=1&sn=6ce02470de6c2c4e446632e111332f7c&chksm=ea6651dfdd11d8c93ed9688d711581e6d7b6b2ee035a20f7cee516c20495dad82e23a979679a&scene=58&subscene=0#rd)
+- 微步在线研究响应中心
+  - [极有可能被黑客利用，Outlook远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247504739&idx=1&sn=4d503cdad7ee0ce6029c6f934873535b&chksm=cfcab077f8bd39619242fddee99daf125b994b080d9ed01f55ce7b81cfe1989e0183142cf1f9&scene=58&subscene=0#rd)
+- 微步在线
+  - [LockBit勒索团伙被端，这个PHP漏洞立大功（利用原理速览）](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650180345&idx=1&sn=33432989342a836295f596f117bf8dee&chksm=f4487145c33ff853ea0953b7286b88c24cffd5511c4cc4e7982c4166fc05969c209fc4654821&scene=58&subscene=0#rd)
 - FreeBuf网络安全行业门户
+  - [CVE-2023-22527 Confluence 未授权 SSTI RCE 漏洞分析](https://www.freebuf.com/articles/web/392320.html)
   - [CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析](https://www.freebuf.com/articles/web/392319.html)
+  - [Java 二次反序列化学习](https://www.freebuf.com/articles/web/392318.html)
   - [微软Outlook中#MonikerLink漏洞的风险和大局观](https://www.freebuf.com/articles/paper/392312.html)
-  - [FreeBuf 早报 | 2024年亚洲黑帽大会定档；加密货币交易所FixedFloat遭遇黑客入侵](https://www.freebuf.com/articles/392309.html)
+  - [FreeBuf 早报 | 2024年亚洲黑帽大会定档；加密货币交易所FixedFloat遭遇黑客入侵](https://www.freebuf.com/news/392309.html)
+  - [CVE-2022-22965 Spring Framework 任意文件写入漏洞](https://www.freebuf.com/articles/web/357232.html)
+  - [WebGoat_身份认证绕过](https://www.freebuf.com/articles/web/392296.html)
   - [无线充电器沦为帮凶，不仅操纵语音助手，还能烧毁手机](https://www.freebuf.com/news/392295.html)
   - [新 Wi-Fi 漏洞导致 Android 和 Linux 设备近乎“裸奔”](https://www.freebuf.com/news/392285.html)
-  - [黑客利用谷歌云运行服务传播三大银行木马](https://www.freebuf.com/news/392271.html)
   - [首发“通杀”某逻辑漏洞思路| 月神亲授SRC实战课](https://www.freebuf.com/consult/392268.html)
-- 体验盒子
-  - [给互联网人的反侦查手册 2.0](https://www.uedbox.com/post/69555/)
-- 奇客Solidot–传递最新科技情报
-  - [Google 暂停了 Gemini 的图像生成功能](https://www.solidot.org/story?sid=77422)
-  - [GIMP 3.0 之前的最后一个开发者预览版发布](https://www.solidot.org/story?sid=77421)
-  - [全新世最大火山喷发事件发生在日本海底](https://www.solidot.org/story?sid=77420)
-  - [中国 AI 模型建立在美国模型基础上](https://www.solidot.org/story?sid=77419)
-  - [Firefly 软件算法错误导致卫星留在错误轨道上](https://www.solidot.org/story?sid=77418)
-  - [ASML 取代 Applied Materials 成为全球最大的晶圆厂工具制造商](https://www.solidot.org/story?sid=77417)
-  - [阿拉巴马州大学暂停体外受精手术](https://www.solidot.org/story?sid=77416)
-  - [Do Kwon 预计将被引渡到美国受审](https://www.solidot.org/story?sid=77415)
-  - [英特尔将为微软代工其自研芯片](https://www.solidot.org/story?sid=77414)
-  - [Reddit 计划向最活跃用户出售 IPO 股票](https://www.solidot.org/story?sid=77413)
-- SecWiki News
-  - [SecWiki News 2024-02-22 Review](http://www.sec-wiki.com/?2024-02-22)
-- 先知安全技术社区
-  - [Php原生类总结](https://xz.aliyun.com/t/13785)
-- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [嘶吼&amp;小塔科技联合出品 | 2023招投标采购视角下国内网络安全市场年度报告](https://www.4hou.com/posts/RK3w)
-  - [Parrot TDS将用户重定向到恶意位置](https://www.4hou.com/posts/OXrQ)
-- 黑海洋 - WIKI
-  - [琅琅配音-永久免费的智能文本转语音系统（AI配音）](https://blog.upx8.com/4067)
-  - [喵闪字库-免费字体下载](https://blog.upx8.com/4066)
-  - [Roop-免费在线一键AI换脸工具](https://blog.upx8.com/4065)
+  - [黑客利用谷歌云运行服务传播三大银行木马](https://www.freebuf.com/news/392271.html)
+  - [I Doc View任意文件上传漏洞复现](https://www.freebuf.com/vuls/392266.html)
+- 情报分析师
+  - [揭秘间谍组织的神秘大本营](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650546329&idx=1&sn=048cc14603e89848c7b54468b1bd58d4&chksm=87110ed2b06687c4754511ee514d436ae8f31a69438692bff3ebae1a4c43ca6cde84c9f30321&scene=58&subscene=0#rd)
+  - [军情内参优选（2024年2月22日最新更新版）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650546329&idx=2&sn=66a8cfc0867a23a066478613ff35813c&chksm=87110ed2b06687c41da14bad3105644ae50d03fb0a7789ef15ad245382f72aa01818a5e403db&scene=58&subscene=0#rd)
+- 安全牛
+  - [2023年全球勒索软件攻击代表性事件回顾](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651128101&idx=1&sn=48339facd41e6f26a334eeb105428893&chksm=bd15b1f68a6238e01aedaa41e0918d3a5c064c26ad132a29546427a53ad0bbb2401eeaf0b85e&scene=58&subscene=0#rd)
+  - [CNNVD通报微软多个安全漏洞](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651128101&idx=2&sn=3fe21eb82c55cb83a52b6a3e747567d2&chksm=bd15b1f68a6238e0c28266613258a33e638270e8734159067f14f9ebb47f6b78c11dadd83682&scene=58&subscene=0#rd)
+  - [安全牛课堂 | 基于AI智能的网络安全意识宣教](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651128101&idx=3&sn=11e506f2652671ed9787656693418e48&chksm=bd15b1f68a6238e024428c8267e142cd20db4c8dd432ab1229cb500048f279e2d67ca1bdda16&scene=58&subscene=0#rd)
+- M01N Team
+  - [大模型输出内容安全：分类和保障](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247493375&idx=1&sn=e094276f706b775912519d93be0dfb85&chksm=c18426eef6f3aff8c1c7c170d613337ee36ba1ee34ed9ff8dde4840cbc3e2a05abb0bfa13561&scene=58&subscene=0#rd)
+- 中国信息安全
+  - [发布 | 中央网信办等四部门印发《2024年提升全民数字素养与技能工作要点》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=1&sn=83ded45698e8bb2e688ef0b9f8d757bc&chksm=8b598925bc2e0033115361297870f79ffa6d1c9e4a86a00559bd9bd06d6af1b015e80b4a15b1&scene=58&subscene=0#rd)
+  - [前沿 | 俄罗斯软件进口替代政策探析](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=2&sn=a7640767992eaaa10d7604447b2f1d3a&chksm=8b598925bc2e0033c2886bf920f7391803866b2504a68483d7bdccdfc633a688da73129ac15b&scene=58&subscene=0#rd)
+  - [专家观点 | 生成式人工智能应用的伦理立场与治理之道：以ChatGPT为例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=3&sn=8b8483c3916eedfcf70ce05d3712d961&chksm=8b598925bc2e00334e746c1b0e98ab118316f525fc72bc6f70ac4dc05910e48608139b7fdfba&scene=58&subscene=0#rd)
+  - [专家观点 | 打好组合拳严惩跨境电诈犯罪](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=4&sn=012f6cea5b18d0655f0685db1ef4cfb0&chksm=8b598925bc2e0033254fa3c9a3c7d7b251614bcd2c9b7e40f485134198c87c1eebadd37db828&scene=58&subscene=0#rd)
+  - [评论 | 激活公共数据要素潜能](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=5&sn=a1f20a18090f3dde7bcd3ade464cea35&chksm=8b598925bc2e00330f7ec03ace37b98b4d83d2b9d5b9644e48f0e4051631b541a419a15ac3f2&scene=58&subscene=0#rd)
+  - [前沿 | 数据资产管理技术应用之数据质量和开发管理实践](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=6&sn=a1100bd1d9c96db0254000c49da9c1c0&chksm=8b598925bc2e00338169cd7bd6448114cd8bb1ed338013dd187870b6fd5617aedb8673062fa3&scene=58&subscene=0#rd)
 - 安全客-有思想的安全新媒体
   - [全国两会召开在即，知道创宇免费守护内容安全，共筑清朗网络空间](https://www.anquanke.com/post/id/293294)
   - [周鸿祎：不要把Sora看成鲨鱼，把它看成海洋](https://www.anquanke.com/post/id/293376)
@@ -52,80 +91,41 @@
   - [8800 台服务器：任何未更新的 ScreenConnect 系统都可以被远程黑客攻击](https://www.anquanke.com/post/id/293363)
   - [360安全智脑：国内知名品牌NAS系统遭LvtLocker勒索软件攻击](https://www.anquanke.com/post/id/293361)
   - [麻省理工学院的智能手套：完善触觉传承](https://www.anquanke.com/post/id/293359)
-  - [两个新的恶意Python 包被发现，已超过700人下载](https://www.anquanke.com/post/id/293357)
-  - [黑暗骑士金盆洗手？：骑士3.0勒索软件的源代码待价而沽](https://www.anquanke.com/post/id/293355)
-  - [Migo：将Redis服务器变成加密矿工](https://www.anquanke.com/post/id/293352)
-  - [攻击无线充电：导致过热、火灾和数据盗窃风险](https://www.anquanke.com/post/id/293349)
-- 白帽Wiki - 一个简单的wiki
-  - [[2024]HotSpotVirtualMachine.java self attach check function Vulnerabilitie](https://key08.com/index.php/2024/02/22/1833.html)
-- 微步在线研究响应中心
-  - [极有可能被黑客利用，Outlook远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247504739&idx=1&sn=4d503cdad7ee0ce6029c6f934873535b&chksm=cfcab077f8bd39619242fddee99daf125b994b080d9ed01f55ce7b81cfe1989e0183142cf1f9&scene=58&subscene=0#rd)
-- dotNet安全矩阵
-  - [.NET 文件上传漏洞在不同框架下的差异](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490776&idx=1&sn=59653d64fc3ad7a06be3b0429a384e44&chksm=fa5ab235cd2d3b23a0ea4336f71b869b80ab7a2a15dee0466db73aa874a53cfa3849c6e66d23&scene=58&subscene=0#rd)
-  - [.NET安全矩阵知识库优惠持续进行](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490776&idx=2&sn=48a41da55694a5cfee1b63051db9d512&chksm=fa5ab235cd2d3b23f109bc586bb2a45750da0be2fba163100c65e17366a33f08753c9a2432e5&scene=58&subscene=0#rd)
-- 数世咨询
-  - [报告发布｜数世咨询：NDR能力指南](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247509101&idx=1&sn=25c13b01c58104870dd163c0c7a01bc8&chksm=c144d6d0f6335fc61335d1dbebe7d27a3d9ba5a85a6c2e791d4667d4d6997f36b590f13b345c&scene=58&subscene=0#rd)
-- 安全内参
-  - [彩信指纹：以色列间谍软件可无感知侦查全球智能手机信息](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511044&idx=1&sn=d42f445f36c9366c4e6e16b98521bab1&chksm=ebfaeb24dc8d62325ffd77b2df16eaacd89b5e0d54b13e192109b45f9447de24a1d20338d8da&scene=58&subscene=0#rd)
-  - [盘点：2023年全球勒索软件攻击代表性事件](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511044&idx=2&sn=618044bc644302a24b8f645f454f9169&chksm=ebfaeb24dc8d6232a9e176091d7bad752c67615370f0ce903f0fa66be3def521d521c0e51d6d&scene=58&subscene=0#rd)
-- 慢雾科技
-  - [慢雾：全球头号勒索团伙 LockBit 谜案](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247499426&idx=1&sn=33d3c25b4bb5811e4315cd858aa80198&chksm=fdde8025caa909338dba75231507e5e88a3f1a876af783293f425bca9c3e7dc4dd00aacdc0fa&scene=58&subscene=0#rd)
-- 网安寻路人
-  - [欧盟《数据法》全文翻译（第二部分）](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247501398&idx=1&sn=86763cd18656d0e6987405f1e79aa734&chksm=97e97bbca09ef2aaadd1a4fb38f4954b4a3854b14b67fae74f7ba1a872a1e978388d996bb1fb&scene=58&subscene=0#rd)
-- 情报分析师
-  - [揭秘间谍组织的神秘大本营](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650546329&idx=1&sn=048cc14603e89848c7b54468b1bd58d4&chksm=87110ed2b06687c4754511ee514d436ae8f31a69438692bff3ebae1a4c43ca6cde84c9f30321&scene=58&subscene=0#rd)
-  - [军情内参优选（2024年2月22日最新更新版）](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650546329&idx=2&sn=66a8cfc0867a23a066478613ff35813c&chksm=87110ed2b06687c41da14bad3105644ae50d03fb0a7789ef15ad245382f72aa01818a5e403db&scene=58&subscene=0#rd)
-- 暗影安全
-  - [用mshta让bat以管理员身份运行](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165419&idx=1&sn=42e37b19652b92d93341e99f49207233&chksm=f1d4d28ec6a35b98d961276889afaadd049a8bd9a7457d66130ecf00523e831f4af53557321f&scene=58&subscene=0#rd)
-  - [【工具分享】一款针对Spring Boot的开源渗透框架（持续更新中）](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165419&idx=2&sn=d783c98bf8e8bc0a80f94c1b69324e66&chksm=f1d4d28ec6a35b98b999ab83d41ca989f245a7eac1e803c1e3a4021267beb66b0c9fa5b21656&scene=58&subscene=0#rd)
-- M01N Team
-  - [大模型输出内容安全：分类和保障](https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247493375&idx=1&sn=e094276f706b775912519d93be0dfb85&chksm=c18426eef6f3aff8c1c7c170d613337ee36ba1ee34ed9ff8dde4840cbc3e2a05abb0bfa13561&scene=58&subscene=0#rd)
-- 代码卫士
-  - [速修复！Joomla 漏洞可导致RCE攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518892&idx=1&sn=b7220370e3340f240091cca34c399d57&chksm=ea94bbc6dde332d024909d576d7b563018e16c1e79f3ee057e9cec70d8d5837a228f47fbf6d0&scene=58&subscene=0#rd)
-  - [WiFi漏洞导致安卓和Linux设备易受攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518892&idx=2&sn=21e7796662495b4b807b3393dafd9890&chksm=ea94bbc6dde332d07356a2e54be40ffbdc88a3cac47f21912107d477815155335555fe2c827d&scene=58&subscene=0#rd)
 - CNCERT国家工程研究中心
   - [美国网络空间安全产业发展研究](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543032&idx=1&sn=c54217ce78095b213c963030fdf8cbae&chksm=fa939e39cde4172f36de42f72cfd8255d5d4e37fd57a1e74e45865c15b9a9fb4cc0a0f47e90e&scene=58&subscene=0#rd)
   - [Wyze 摄像头故障导致 13000 名用户误窥他人隐私](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543032&idx=2&sn=64a7b68a4bc7f12981731b6fd1687bd2&chksm=fa939e39cde4172feb54f5a9086b2316db0749df8e10b747c0b0d6908e287041bc29dbf69244&scene=58&subscene=0#rd)
   - [如何在业务环境中实施安全可靠的数据加密？](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543032&idx=3&sn=2f63ac99c58a747a0fbaf8d1b8271c9b&chksm=fa939e39cde4172f88f6ef89844bbfae5b90923244b708f50a91936c3c07c3aa61de9623d2f1&scene=58&subscene=0#rd)
-- 极客公园
-  - [业绩远超预期，英伟达盘后大涨10%；谷歌宣布 Gemma 大模型全球开放使用；华为首超苹果成中国平板市场第一｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653034044&idx=1&sn=d9c98a5ee757fe42d0b6a687911386a7&chksm=7e576b8a4920e29c70c7402d94f2eb2491025c1aa4f5162a18a8d972b62bc14675d5d7d6ce74&scene=58&subscene=0#rd)
-- 中国信息安全
-  - [发布 | 中央网信办等四部门印发《2024年提升全民数字素养与技能工作要点》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=1&sn=83ded45698e8bb2e688ef0b9f8d757bc&chksm=8b598925bc2e0033115361297870f79ffa6d1c9e4a86a00559bd9bd06d6af1b015e80b4a15b1&scene=58&subscene=0#rd)
-  - [前沿 | 俄罗斯软件进口替代政策探析](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=2&sn=a7640767992eaaa10d7604447b2f1d3a&chksm=8b598925bc2e0033c2886bf920f7391803866b2504a68483d7bdccdfc633a688da73129ac15b&scene=58&subscene=0#rd)
-  - [专家观点 | 生成式人工智能应用的伦理立场与治理之道：以ChatGPT为例](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=3&sn=8b8483c3916eedfcf70ce05d3712d961&chksm=8b598925bc2e00334e746c1b0e98ab118316f525fc72bc6f70ac4dc05910e48608139b7fdfba&scene=58&subscene=0#rd)
-  - [专家观点 | 打好组合拳严惩跨境电诈犯罪](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=4&sn=012f6cea5b18d0655f0685db1ef4cfb0&chksm=8b598925bc2e0033254fa3c9a3c7d7b251614bcd2c9b7e40f485134198c87c1eebadd37db828&scene=58&subscene=0#rd)
-  - [评论 | 激活公共数据要素潜能](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=5&sn=a1f20a18090f3dde7bcd3ade464cea35&chksm=8b598925bc2e00330f7ec03ace37b98b4d83d2b9d5b9644e48f0e4051631b541a419a15ac3f2&scene=58&subscene=0#rd)
-  - [前沿 | 数据资产管理技术应用之数据质量和开发管理实践](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205276&idx=6&sn=a1100bd1d9c96db0254000c49da9c1c0&chksm=8b598925bc2e00338169cd7bd6448114cd8bb1ed338013dd187870b6fd5617aedb8673062fa3&scene=58&subscene=0#rd)
+- 慢雾科技
+  - [慢雾：全球头号勒索团伙 LockBit 谜案](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247499426&idx=1&sn=33d3c25b4bb5811e4315cd858aa80198&chksm=fdde8025caa909338dba75231507e5e88a3f1a876af783293f425bca9c3e7dc4dd00aacdc0fa&scene=58&subscene=0#rd)
 - 国家互联网应急中心CNCERT
   - [关于公示第十届CNCERT网络安全应急服务支撑单位遴选结果的通知](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247498980&idx=1&sn=9fc1181a780be6a21c8e369f8f3bc202&chksm=973acf86a04d4690c27594cc749cfb28be91dce5b46de415c168a5dda4473e2448490694c2d1&scene=58&subscene=0#rd)
   - [网络安全信息与动态周报2024年第7期（2月12日-2月18日）](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247498980&idx=2&sn=2be86bb5f1eeb851f444a01d19e6d00c&chksm=973acf86a04d4690b9d5cbec361b012679c489b25789e4e328971af6dd7dde5e71678e23200a&scene=58&subscene=0#rd)
   - [网络安全信息与动态周报2024年第6期（2月5日-2月11日）](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247498980&idx=3&sn=f8e7a579a7a564a3c1245a1d2ecd431a&chksm=973acf86a04d4690c74b73df9e5e9eb2c119a5161f483bb9b0c91ba202c158b097c0007d7279&scene=58&subscene=0#rd)
   - [CNVD漏洞周报2024年第6、7期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247498980&idx=4&sn=81a93d21e714f441268e54c242cf498d&chksm=973acf86a04d469015f8ce11f4ff8a185768cd295eba073988429f6fbc8dfd33dd7e7312168d&scene=58&subscene=0#rd)
   - [上周关注度较高的产品安全漏洞(20240205-20240218)](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247498980&idx=5&sn=8258d4a8405977d6bb178cc8d79ff9ce&chksm=973acf86a04d4690da6ae0a4cc4eb22b2665b12afbe068fc565f3f2a2e8affdd109dab3b438d&scene=58&subscene=0#rd)
-- 杨龙
-  - [CSS实现表格对角线](https://www.yanglong.pro/css%e8%a1%a8%e6%a0%bc%e5%af%b9%e8%a7%92%e7%ba%bf/)
-- 安全研究GoSSIP
-  - [G.O.S.S.I.P 阅读推荐 2024-02-22 当你在读论文时，你在想什么？](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247497352&idx=1&sn=e9484aa41c523cce45ec9e4a50f49c68&chksm=c063d851f7145147b6a66be227f2e8611ce06fe3e5901d298b56f1236949dcbe31da6b25e1b3&scene=58&subscene=0#rd)
-- DARKNAVY
-  - [「深蓝洞察」2023 年度最多面的漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247485303&idx=1&sn=1c306d587d334f57d5bac54020f4d276&chksm=c1f443bff683caa92702eea91cf9ae4491e6350da4460c1718b2ab45c83aa9071a926d62c836&scene=58&subscene=0#rd)
-  - [《少年黑客》第六季，久违的少年黑客团，继续闪耀！](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247485303&idx=2&sn=ccbab4b2f65bd2a1ba58de6a1d699c9e&chksm=c1f443bff683caa9f018fbd4d4302357a569d7a9f702a908671f5038c9eb247a3acad13aa962&scene=58&subscene=0#rd)
 - 深信服千里目安全技术中心
   - [【漏洞通告】Spring Security 访问控制错误漏洞CVE-2024-22234](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247522147&idx=1&sn=35d55d648f76703c3d5a5c40e828bdf9&chksm=ce461c73f9319565b01c9f563cb4d1ba21d41f7b92879efd427236ce466c205eb4dfb1391189&scene=58&subscene=0#rd)
   - [【漏洞通告】PostgreSQL JDBC SQL注入漏洞CVE-2024-1597](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247522147&idx=2&sn=8bb2cce9e98dc40498cf1bc7b2b483e0&chksm=ce461c73f93195657b39e7887da2d77225cd3ca8fe3914cde5b24a939a380c18a22a6490cdce&scene=58&subscene=0#rd)
-- 三六零CERT
-  - [国内知名品牌NAS系统遭LvtLocker勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502717&idx=1&sn=c1cfcae3f783f32262bc2da3ce257125&chksm=fe26ce7cc951476a28fa64a3140958a78ddb4413c97dcdc3ec12d19fb96b278fc373c2f87fd8&scene=58&subscene=0#rd)
-  - [安全日报（2024.02.22）](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502717&idx=2&sn=4f4539ed571ba1c03b76cc267ba428f3&chksm=fe26ce7cc951476ad9d7e82a1fd962f43f2d24b4c8ffab98b2cac9f7ca7ccf2eb78d7d2b6f0f&scene=58&subscene=0#rd)
-- 关键基础设施安全应急响应中心
-  - [某关键基础设施软件制造商确认遭遇勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542333&idx=1&sn=082dfb90e4db11c5a7e7ec1f93ddd1cf&chksm=c1e9aa6cf69e237a9a112fd246709621f8697dfe4132fdcb44f4aaa890208fcf169bd95c4070&scene=58&subscene=0#rd)
-  - [增强工业控制系统网络安全之战略举措：PRP协议的部署应用](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542333&idx=2&sn=dbe4a25f19a72defe2bf89ea0db13904&chksm=c1e9aa6cf69e237a40374daf50bcf61680d8e910ce96c98d0ef31a7c48b3c5eb585ded3887ba&scene=58&subscene=0#rd)
-  - [未能遏止数据泄露增势！美国网络安全法律体系被指存在重大缺陷](https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542333&idx=3&sn=e8272eac771555b8c4eb8761c039e241&chksm=c1e9aa6cf69e237ae4c3f9152efd44d884dc11b1012204914536111dcdd4d21e54ae4e61e186&scene=58&subscene=0#rd)
+- 丁爸 情报分析师的工具箱
+  - [【资料】数据侦查OSINT工具](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651142311&idx=1&sn=9e7c3d6d0d5196cff7e75dd7a462cbe6&chksm=f1af4f9dc6d8c68bad291ba298232a323d3bdebcd2c908744257a5402a9eed7fa8b6d0941956&scene=58&subscene=0#rd)
+- 网安寻路人
+  - [欧盟《数据法》全文翻译（第二部分）](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247501398&idx=1&sn=86763cd18656d0e6987405f1e79aa734&chksm=97e97bbca09ef2aaadd1a4fb38f4954b4a3854b14b67fae74f7ba1a872a1e978388d996bb1fb&scene=58&subscene=0#rd)
+- 黑伞安全
+  - [网安圈子中薪资待遇都啥样？](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488817&idx=1&sn=3e1aecf1a907b15503c16108ad2bb78e&chksm=fb029869cc75117f3c6a6de411978c9da83c6c5b98be9d25b2c8cf4f5de5cfe963117f1f9964&scene=58&subscene=0#rd)
+- 先知安全技术社区
+  - [实战中遇到的一些莫名其妙的漏洞](https://xz.aliyun.com/t/13790)
+  - [APT组织“蔓灵花”恶意邮件附件5种手法分析](https://xz.aliyun.com/t/13789)
+  - [勒索病毒分析-中文信息勒索软件，利用国内平台收款](https://xz.aliyun.com/t/13772)
+  - [Php原生类总结](https://xz.aliyun.com/t/13785)
+- 360数字安全
+  - [信创安全“超级应用”震撼升级，助您龙年玩转“数字范”！](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247569612&idx=1&sn=4f0d334ee831c327097fa00abf89b0bf&chksm=9f8d40c4a8fac9d236b1fd3278d4129800ea38362fae9c4ece5864562924a149bc8083d3ee17&scene=58&subscene=0#rd)
+- Yak Project
+  - [JsSSA与网络请求解析](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247519396&idx=1&sn=d0e2febfc53872a76604ada35346be3c&chksm=c2d1f000f5a67916bb1ba78811a28ae0aa129c204833e2dcfbfa3207d4dce1399d493a2da1b8&scene=58&subscene=0#rd)
 - 信息安全国家工程研究中心
   - [OpenAI首个视频生成模型Sora登场，“低门槛”深度伪造技术引担忧](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247496028&idx=1&sn=0f9f0f4041919e05b349564bdc7d3550&chksm=feb6704fc9c1f959b70a2bd8807ebd7b55af6663ad28795df90ec305341e2a7676f0b2150099&scene=58&subscene=0#rd)
   - [最大网络勒索团伙Lockbit被捣毁](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247496028&idx=2&sn=82111a453dda8a09d6747973756a1a41&chksm=feb6704fc9c1f95912c1371762aeb28bc92d19b92a4638326c14350f2326fc3beaf952cc68ad&scene=58&subscene=0#rd)
-- 嘶吼专业版
-  - [嘶吼&小塔科技联合出品 | 2023招投标采购视角下国内网络安全市场年度报告](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573719&idx=1&sn=f89a9ada63fd539f7b902bc088b5052c&chksm=e91470edde63f9fb9a15e5236e0d1835cf2d9e70cd5e74930edcfe21b42c4100afccf5fa63b3&scene=58&subscene=0#rd)
-  - [Parrot TDS将用户重定向到恶意位置](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573719&idx=2&sn=8f32eb7e4d4848e39712e1cbad0a0252&chksm=e91470edde63f9fb2203b38306538bbc61491471ac6d1634e5ef77c97000dc09401d61753a29&scene=58&subscene=0#rd)
-- 黑伞安全
-  - [网安圈子中薪资待遇都啥样？](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488817&idx=1&sn=3e1aecf1a907b15503c16108ad2bb78e&chksm=fb029869cc75117f3c6a6de411978c9da83c6c5b98be9d25b2c8cf4f5de5cfe963117f1f9964&scene=58&subscene=0#rd)
+- DARKNAVY
+  - [「深蓝洞察」2023 年度最多面的漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247485303&idx=1&sn=1c306d587d334f57d5bac54020f4d276&chksm=c1f443bff683caa92702eea91cf9ae4491e6350da4460c1718b2ab45c83aa9071a926d62c836&scene=58&subscene=0#rd)
+  - [《少年黑客》第六季，久违的少年黑客团，继续闪耀！](https://mp.weixin.qq.com/s?__biz=MzkyMjM5MTk3NQ==&mid=2247485303&idx=2&sn=ccbab4b2f65bd2a1ba58de6a1d699c9e&chksm=c1f443bff683caa9f018fbd4d4302357a569d7a9f702a908671f5038c9eb247a3acad13aa962&scene=58&subscene=0#rd)
 - 安全419
   - [两会前瞻丨2024全国两会上的「网络安全」之声](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247538078&idx=1&sn=6a9c33e2d325db9b6a9f7542f946bd1c&chksm=f9eb8b33ce9c0225af095577772c0ae9ade3717aaef103e408d90aa146647ae4516cbe6d4adf&scene=58&subscene=0#rd)
