@@ -3,14 +3,20 @@
 - 嘶吼专业版
   - [为什么说设置用户帐户权限很重要](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573734&idx=1&sn=c26ddab3e3692948da1d44ebb064b352&chksm=e91470dcde63f9cad81f25766eb942a3a08698739988a853cdb062feb418147c408ea930a529&scene=58&subscene=0#rd)
   - [新的 Linux glibc 漏洞可使网络攻击者获得主要发行版 root 权限](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573734&idx=2&sn=d3281066b883701bcf89b718c0efb478&chksm=e91470dcde63f9caea217c3ce6edd5028e2475620ddd6b26ee3712dbe814c255e78268ec8c70&scene=58&subscene=0#rd)
-- 三六零CERT
-  - [CVE-2024-21413：Microsoft Outlook 远程代码执行漏洞通告](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502796&idx=1&sn=ce48dd867994ddaaef86e0dea742ce4f&chksm=fe26cecdc95147dbb119205ba33d9435d588d710143435157b91c257756a8016d27dcf569798&scene=58&subscene=0#rd)
-  - [安全日报（2024.02.23）](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502796&idx=2&sn=eb1f29b9e5142de09ca56370d88578ef&chksm=fe26cecdc95147dbe97ee215a7c1a51dff2a6bb748c994d8f826fa52286c30eef0364796803b&scene=58&subscene=0#rd)
 - 火绒安全
   - [【火绒安全周报】多个国家联合宣布已查封LockBit / 宝马发生数据泄露](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247517570&idx=1&sn=b983b1f7932b5f9ef1bdac5585e272fa&chksm=eb705bbddc07d2ab98acb5148ed27f25ac02bc522b320fa3fbcde94e843c2297c9c6014014b4&scene=58&subscene=0#rd)
 - 安全内参
+  - [生成式人工智能滥用恶用的安全威胁及对策建议研究](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511058&idx=1&sn=d6d31934f3b1ab4fd9c06c276300f79e&chksm=ebfaeb32dc8d6224f2151c855e8c9cf395149ac43f593ce74a9a6aa0e7cdc3e987936ab25d5c&scene=58&subscene=0#rd)
   - [美国医疗支付关键供应商被黑瘫痪，全国众多药店无法处理处方](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511052&idx=1&sn=357fcb5962d0b01d8c011e140cf2d080&chksm=ebfaeb2cdc8d623af969677f178d407989e2caaa8c8e45257fa7c4a02468b106436a0bead24c&scene=58&subscene=0#rd)
   - [美军加速推进国防部网络向新网络架构“DoDNet”的迁移](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511052&idx=2&sn=c2ce6b85580afe6dbde868ce2d161590&chksm=ebfaeb2cdc8d623a71f7ed7bc8c2e8b1acfe59c61824a2be4645a7b6d0a0fa4c62fbafec85c0&scene=58&subscene=0#rd)
+- 三六零CERT
+  - [CVE-2024-21413：Microsoft Outlook 远程代码执行漏洞通告](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502796&idx=1&sn=ce48dd867994ddaaef86e0dea742ce4f&chksm=fe26cecdc95147dbb119205ba33d9435d588d710143435157b91c257756a8016d27dcf569798&scene=58&subscene=0#rd)
+  - [安全日报（2024.02.23）](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502796&idx=2&sn=eb1f29b9e5142de09ca56370d88578ef&chksm=fe26cecdc95147dbe97ee215a7c1a51dff2a6bb748c994d8f826fa52286c30eef0364796803b&scene=58&subscene=0#rd)
+- 安全圈
+  - [【安全圈】苹果试点推进类 ChatGPT 工具“Ask”，可实现客服工作](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054348&idx=1&sn=d7905d9737c6c76f015e4767a9c2d687&chksm=f36e0f0cc419861add671439e868afbfd4f802084204b538ab4599dc40eafefd023942001e8c&scene=58&subscene=0#rd)
+  - [【安全圈】因“内部程序错误”，美国最大运营商服务中断持续10多个小时](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054348&idx=2&sn=d4cd17626b7a8617b77e60b3d15b43d1&chksm=f36e0f0cc419861a30233beea35918415ed7f41072acf23259c771e5675fdf8d60617918e611&scene=58&subscene=0#rd)
+  - [【安全圈】Microsoft Exchange出现安全缺陷，可能将影响多达97000台服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054348&idx=3&sn=d74cadd691b0013978ddacc9f0b2e152&chksm=f36e0f0cc419861aedea087eddfdd483b555c1c55ab1c0b724888c12d5610ad9f97d392b5f70&scene=58&subscene=0#rd)
+  - [【安全圈】注意！苹果快捷方式漏洞 (CVE-2024-23204) 可以暴露敏感数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054348&idx=4&sn=954e62d1619b2db694807191fd923070&chksm=f36e0f0cc419861ac6103656430bfaa0fd714deb38e2c1ed06ff8f00c8d83aa1862b63590f68&scene=58&subscene=0#rd)
 - FreeBuf网络安全行业门户
   - [APP攻防&Android逆向&HOOK抓包&组件安全](https://www.freebuf.com/articles/endpoint/392458.html)
   - [FreeBuf 周报 | Meta 为收集用户数据再出“奇招”；70%的企业遭遇网络欺诈的频次增长](https://www.freebuf.com/news/392438.html)
