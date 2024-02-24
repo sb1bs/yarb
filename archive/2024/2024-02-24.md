@@ -1,1 +1,31 @@
+# 每日安全资讯（2024-02-24）
 
+- 嘶吼专业版
+  - [为什么说设置用户帐户权限很重要](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573734&idx=1&sn=c26ddab3e3692948da1d44ebb064b352&chksm=e91470dcde63f9cad81f25766eb942a3a08698739988a853cdb062feb418147c408ea930a529&scene=58&subscene=0#rd)
+  - [新的 Linux glibc 漏洞可使网络攻击者获得主要发行版 root 权限](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573734&idx=2&sn=d3281066b883701bcf89b718c0efb478&chksm=e91470dcde63f9caea217c3ce6edd5028e2475620ddd6b26ee3712dbe814c255e78268ec8c70&scene=58&subscene=0#rd)
+- 三六零CERT
+  - [CVE-2024-21413：Microsoft Outlook 远程代码执行漏洞通告](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502796&idx=1&sn=ce48dd867994ddaaef86e0dea742ce4f&chksm=fe26cecdc95147dbb119205ba33d9435d588d710143435157b91c257756a8016d27dcf569798&scene=58&subscene=0#rd)
+  - [安全日报（2024.02.23）](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502796&idx=2&sn=eb1f29b9e5142de09ca56370d88578ef&chksm=fe26cecdc95147dbe97ee215a7c1a51dff2a6bb748c994d8f826fa52286c30eef0364796803b&scene=58&subscene=0#rd)
+- 火绒安全
+  - [【火绒安全周报】多个国家联合宣布已查封LockBit / 宝马发生数据泄露](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247517570&idx=1&sn=b983b1f7932b5f9ef1bdac5585e272fa&chksm=eb705bbddc07d2ab98acb5148ed27f25ac02bc522b320fa3fbcde94e843c2297c9c6014014b4&scene=58&subscene=0#rd)
+- 安全内参
+  - [美国医疗支付关键供应商被黑瘫痪，全国众多药店无法处理处方](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511052&idx=1&sn=357fcb5962d0b01d8c011e140cf2d080&chksm=ebfaeb2cdc8d623af969677f178d407989e2caaa8c8e45257fa7c4a02468b106436a0bead24c&scene=58&subscene=0#rd)
+  - [美军加速推进国防部网络向新网络架构“DoDNet”的迁移](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511052&idx=2&sn=c2ce6b85580afe6dbde868ce2d161590&chksm=ebfaeb2cdc8d623a71f7ed7bc8c2e8b1acfe59c61824a2be4645a7b6d0a0fa4c62fbafec85c0&scene=58&subscene=0#rd)
+- FreeBuf网络安全行业门户
+  - [APP攻防&Android逆向&HOOK抓包&组件安全](https://www.freebuf.com/articles/endpoint/392458.html)
+  - [FreeBuf 周报 | Meta 为收集用户数据再出“奇招”；70%的企业遭遇网络欺诈的频次增长](https://www.freebuf.com/news/392438.html)
+  - [勒索之王LockBit 被11国联合执法覆灭？将发布4.0版本](https://www.freebuf.com/news/392383.html)
+  - [美国指控著名安全厂商Avast 向广告商出售用户浏览数据](https://www.freebuf.com/news/392370.html)
+  - [苹果推出后量子加密协议PQ3，iMessage即将迎来大升级！](https://www.freebuf.com/news/392362.html)
+  - [个人隐私还要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html)
+- 安全客-有思想的安全新媒体
+  - [专家警告称，ConnectWise 漏洞可能会引发“勒索软件肆虐”](https://www.anquanke.com/post/id/293407)
+  - [SSH-Snake：暗中搜索私钥实现横向移动](https://www.anquanke.com/post/id/293405)
+  - [Joomla发现 5 个漏洞可执行任意代码](https://www.anquanke.com/post/id/293403)
+  - [言而无信：LockBit 在收到赎金后并未删除受害者的数据](https://www.anquanke.com/post/id/293401)
+  - [苹果为iMessage推出加密协议PQ3防护量子破解](https://www.anquanke.com/post/id/293399)
+  - [编程语言Zig 打破了开发领域的所有薪资记录](https://www.anquanke.com/post/id/293397)
+  - [Apache 成为黑客攻击目标：过去一个月对 Hadoop、Druid 和 Flink 的攻击达到 3,000 次](https://www.anquanke.com/post/id/293395)
+  - [黑客近期频繁滥用Google Cloud Run 服务传播银行木马](https://www.anquanke.com/post/id/293389)
+  - [知道创宇荣膺第十届CNCERT国家级网络安全应急服务支撑单位](https://www.anquanke.com/post/id/293386)
+  - [Google Chrome 推出人工智能实时文本填充功能](https://www.anquanke.com/post/id/293387)
