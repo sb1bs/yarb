@@ -1,7 +1,1 @@
-# 每日安全资讯（2024-02-25）
 
-- 安全圈
-  - [【安全圈】勒索之王LockBit 被11国联合执法覆灭？将发布4.0版本](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054423&idx=1&sn=0fd9e495bfd9ae385b67bd63fa7141e9&chksm=f36e0fd7c41986c19a5bc7cb7a3dff20333c3fb76e469ca3970489388da58caa81fb098ef9f1&scene=58&subscene=0#rd)
-  - [【安全圈】.LIVE勒索病毒正在大规模传播，请及时修复（附勒索解密代码）](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054423&idx=2&sn=38593acc52ec42e5adb175d90d8f1fd5&chksm=f36e0fd7c41986c1f1777a060c2f88ec28d5548d3b38269ac0fc41667ed057c2c95525772048&scene=58&subscene=0#rd)
-  - [【安全圈】Joomla 发现5个漏洞可执行任意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054423&idx=3&sn=59f460185f705e3183b470edb4249bcd&chksm=f36e0fd7c41986c10b314833c6de089751f4fb2da21a1e3b4b4350ce570727c1ea1d2685c128&scene=58&subscene=0#rd)
-  - [【安全圈】美国医疗支付关键供应商被黑瘫痪，全国众多药店无法处理处方](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652054423&idx=4&sn=c1a8c63f40a575499c7fa15947c3ef69&chksm=f36e0fd7c41986c14c36ecaad29f4b36ab30101111509b1eda88a1aa7a94c1c634757e0c98ba&scene=58&subscene=0#rd)
