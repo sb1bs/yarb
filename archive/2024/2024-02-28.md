@@ -3,15 +3,15 @@
 - 三六零CERT
   - [CVE-2024-25600：WordPress Bricks Builder远程命令执行漏洞通告](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502939&idx=1&sn=06adc8dc9bec1a11b9306ce8b8d39871&chksm=fe26c95ac951404c830e8379426dc7d1eba3018623bf22f320e2aa6065bcea95eae38594d7f6&scene=58&subscene=0#rd)
   - [安全日报（2024.02.27）](https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502939&idx=2&sn=c3d3d2fca12b631cdd9deef3d5515f74&chksm=fe26c95ac951404c28206279f413a773b5c50c20f7b7856b9df62623594b191f65932ed31932&scene=58&subscene=0#rd)
-- 嘶吼专业版
-  - [《鉴于止水·无行地难：工控安全行业应用专题报告 2024》报告调研召集令 | 嘶吼安全产业研究院](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573812&idx=1&sn=65036f2b577e9b8a3e55315cb6f9376b&chksm=e914710ede63f81846036e4eb7a521aec714d773bf88e92b66ee006b52d77c1822d469ae8d8a&scene=58&subscene=0#rd)
-  - [Leaky Vessels 缺陷允许黑客逃离 Docker、runc 容器](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573812&idx=2&sn=550445d4f3dbe5c869b28813ad34a8ba&chksm=e914710ede63f818c13ceb20cfe3dae51e951f7d671668f707c96da32a2161d37afc54076e54&scene=58&subscene=0#rd)
 - 安全内参
   - [网络攻击迫使这个带路国家暂停护照发放超两周](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511071&idx=1&sn=6d49887e98caa5b88141e49078b77c6a&chksm=ebfaeb3fdc8d622979936f675a0cdce9e07ee44192dc5de3805928c0044cd1c31024df52562b&scene=58&subscene=0#rd)
   - [俄罗斯地方电网遭网络攻击大停电，涉事黑客被起诉](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511071&idx=2&sn=5fcdafa2b474cb2ee10cbc1b19ff223d&chksm=ebfaeb3fdc8d622960440b8dfe3ef32cc2146d539d83612a7a4136adea17ef21bc13af911659&scene=58&subscene=0#rd)
+- 嘶吼专业版
+  - [《鉴于止水·无行地难：工控安全行业应用专题报告 2024》报告调研召集令 | 嘶吼安全产业研究院](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573812&idx=1&sn=65036f2b577e9b8a3e55315cb6f9376b&chksm=e914710ede63f81846036e4eb7a521aec714d773bf88e92b66ee006b52d77c1822d469ae8d8a&scene=58&subscene=0#rd)
+  - [Leaky Vessels 缺陷允许黑客逃离 Docker、runc 容器](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573812&idx=2&sn=550445d4f3dbe5c869b28813ad34a8ba&chksm=e914710ede63f818c13ceb20cfe3dae51e951f7d671668f707c96da32a2161d37afc54076e54&scene=58&subscene=0#rd)
 - FreeBuf网络安全行业门户
   - [《中华人民共和国保守国家秘密法》修订发布，5月1日正式实行](https://www.freebuf.com/news/392731.html)
-  - [FreeBuf 早报 | 关键SQL注入漏洞威胁超过20万个网站；网络攻击迫使上市公司电池工厂停产两周](https://www.freebuf.com/news/392699.html)
+  - [FreeBuf 早报 | 美“ReSCIND”探索项目启动；网络攻击迫使上市公司电池工厂停产两周](https://www.freebuf.com/news/392699.html)
   - [微软发布针对AIGC的红队测试开源工具](https://www.freebuf.com/news/392694.html)
   - [图片也带”毒“了？ 黑客使用新技术推送 Remcos RAT](https://www.freebuf.com/news/392677.html)
   - [针对数十年的内存相关漏洞，ONCD发布新报告](https://www.freebuf.com/news/392666.html)
