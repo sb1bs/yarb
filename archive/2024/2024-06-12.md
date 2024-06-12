@@ -1,0 +1,16 @@
+# 每日安全资讯（2024-06-12）
+
+- 安全内参
+  - [采购数千万条个人信息贩卖给赌博网站，这一团伙被抓](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511908&idx=1&sn=9be77835804ae2dd0b51c390d89e9975&chksm=ebfae844dc8d6152117160133d088de4023c359234a5602c56878102222e2c7afe98ad9e7b39&scene=58&subscene=0#rd)
+- 嘶吼专业版
+  - [Fluent Bit 严重缺陷影响众多主要云提供商](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247575682&idx=1&sn=cc427f9de067ad1bd192ed7407e7ad4f&chksm=e91478b8de63f1aeae3b2b0873686208d6a47f1f1daad1c897c5e915b50a9deb25e1cc8d23bf&scene=58&subscene=0#rd)
+  - [财政部 国家网信办关于印发《会计师事务所数据安全管理暂行办法》的通知](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247575682&idx=2&sn=ce876855ba10d9e07c0faef95307b7d6&chksm=e91478b8de63f1ae8269b4a4f16d8080c05eff3cba2d7cd9c12193bacaf3076dd964c9962d35&scene=58&subscene=0#rd)
+- FreeBuf网络安全行业门户
+  - [苹果AI的新选择，越来越像人的GPT-4o会欺骗人类吗？](https://www.freebuf.com/articles/403253.html)
+  - [国家能源局印发《电力网络安全事件应急预案》](https://www.freebuf.com/news/403231.html)
+  - [耗资上亿购买零日漏洞，全球商业间谍软件正在野蛮生长](https://www.freebuf.com/articles/neopoints/403223.html)
+  - [云存储提供商 Snowflake 数据泄露，165 家组织受影响](https://www.freebuf.com/news/403193.html)
+  - [《纽约时报》泄露270G数据，包含内部源代码](https://www.freebuf.com/news/403176.html)
+  - [大选开始之际，欧盟各政党遭受 DDoS 攻击](https://www.freebuf.com/news/403170.html)
+  - [FreeBuf早报 | 公安部网安局公布常见高考网络谣言；niconico 动画弹幕网站服务中断](https://www.freebuf.com/news/403146.html)
+  - [Forescout报告显示：物联网漏洞激增，成为黑客攻击的关键切入点](https://www.freebuf.com/news/403145.html)
