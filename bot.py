@@ -123,6 +123,10 @@ class dingtalkBot:
         return text_list
 
     async def send(self, text_list: list):
+        if not text_list:
+            print('No feeds to send.')
+            return
+            
         rates = [Rate(20, Duration.MINUTE)] # 频率限制，20条/分钟
         bucket = InMemoryBucket(rates)
         limiter = Limiter(bucket, max_delay=120000)
